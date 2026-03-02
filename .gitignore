@@ -5,6 +5,7 @@ data/external/
 
 # Trained models and Optuna studies
 /models/
+!src/models/
 
 # Python
 __pycache__/
